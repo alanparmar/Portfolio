@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Alan Parmar",
     "role": "FullStack Developer",
     "email": "alan.parmar.ap@gmail.com",
-    "resumeUrl":"/resume.pdf",
+    "resumeUrl":"../resume.pdf",
     "roleDescription": " I like dabbling in various parts of development and like to learn about new technologies, read technical articles or simply play games in my free time.",
     "socialLinks":[
         {
@@ -77,22 +77,22 @@ let resumeData = {
       {
         "name":"Flappy Bird",
         "description":"A flappy bird mobile app coded in C",
-        "imgurl":"/images/portfolio/flappy.jpeg",       
+        "imgurl":"..images/portfolio/flappy.jpeg",       
       },
       {
         "name":"Contactx",
         "description":"A React based Contact App that lets you Add, Delete, Update and Search for Contacts. Backed by Firestore DB, this simple app is a mini project I worked on solo to play with the strength of React and explore its capabilities.",
-        "imgurl":"/images/portfolio/firebase.jpg"
+        "imgurl":"..images/portfolio/firebase.jpg"
       },
       {
         "name":"Circular Pie",
         "description": "Circular Pie is an online pizza selling website that allows users to customize their pizza by selecting the base, sauce, protein, and toppings. The website also provides ad banners for local businesses. This project is developed using HTML, CSS, JavaScript, JSP, Java, and SQL.",  
-        "imgurl":"/images/portfolio/circluarpie.jpg"
+        "imgurl":"..images/portfolio/circluarpie.jpg"
       },
       {
         "name":"Text to image generator",
         "description":"Generate images from text description using Attn GAN",
-        "imgurl":"/images/portfolio/texttoimage.jpeg"
+        "imgurl":"..images/portfolio/texttoimage.jpeg"
       }
     ],
     "testimonials":[
